@@ -1,0 +1,34 @@
+body{
+    width: 95%;
+    width: 800px;
+    margin: auto;
+    font-family: Arsenal;
+    line-height: 1.5;
+    background: url(cherryblossom-back.jpg) center;
+}
+
+main {
+    background: rgba(235, 199, 199, 0.329);
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.logo, .meu-personagem, .frase-sakura{
+    text-align: center;
+    margin: 0;
+}
+.frase-sakura{
+    color: rgb(0, 0, 0);
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    
+}
+.meu-personagem{
+    font-family: 'Kalam', cursive;
+    font-size: 40px;
+    font-weight: 300;
+}
+.texto{
+    
+}
